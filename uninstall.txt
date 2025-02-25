@@ -1,3 +1,13 @@
+Uninstalling ForgeVim:
+
+Use de unistall.sh.
+1. chmod +x uninstall.sh
+2. ./uninstall.sh
+
+ORIGINAL FROM VIM:
+   /
+  \/
+
 Uninstalling Vim on MS-Windows.
 
 There are three ways to remove Vim:
