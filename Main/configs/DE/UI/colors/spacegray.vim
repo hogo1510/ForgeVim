@@ -207,5 +207,5 @@ let g:terminal_ansi_colors = [
             \ '#789BAD',
             \ '#9F7AA5',
             \ '#9F7AA5',
-            \ '#E3E8E3'
-            \ ]
+             '#E3E8E3'
+]
