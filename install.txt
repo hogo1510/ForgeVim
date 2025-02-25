@@ -1,0 +1,9 @@
+How to install?
+
+give the installer promision:
+	- chmod +x install.sh
+use the installer:
+	- ./install.sh
+
+now it's building vim aswell as forge.
+after that it's linking forge so you can use it from anywhere :) 
